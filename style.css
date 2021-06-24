@@ -1,0 +1,29 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px blue;
+    font: 35px;
+    color: whitesmoke;
+}
+
+.note{
+    font-size: 18px;
+    color: black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color:orangered;
+    background-color: pink;
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+}
+
+canvas {
+    box-shadow: 5px 5px 5px blue;
+    border-radius: 20px;
+    border: 8px soloid pink;
+}
